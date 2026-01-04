@@ -1,2 +1,10 @@
-> 📱 This documentation was written and published from official flutter documentation 
-> If you can read this, you can follow it.
+# Flutter Docs 🚀
+
+Welcome to Flutter Docs.
+
+This website is hosted using **GitHub Pages**.
+
+## What you’ll learn
+- Splash screen setup
+- App signing for Play Store
+- Production-ready Flutter tips
